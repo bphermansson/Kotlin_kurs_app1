@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kotlin_kurs_app1</string>
+    <string name="reset">Nollställ</string>
 </resources>
